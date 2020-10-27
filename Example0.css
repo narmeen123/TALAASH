@@ -1,0 +1,103 @@
+.centered {
+    position: relative;
+    bottom: 50%;
+    margin-left: 65%;
+    transform: translate(-50%, -135%);
+  }
+  .container {
+    max-width: 800px;
+  }
+  .text-left {
+    margin-left: 55%;
+  }
+  
+  .signupform {
+    position: absolute;
+    margin-top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  body {
+    background: url("http://phucgroup.vn/profiles/phucgroupvn/uploads/attach/1455617082_services4.jpg");
+    font-family: "Oxygen", sans-serif;
+    color: #fff !important;
+  }
+  p {
+    margin: 0 !important;
+  }
+  .main {
+    margin-top: 25px;
+  }
+  
+  .title {
+    font-size: 50px;
+    font-family: "Passion One", cursive;
+    font-weight: 400;
+    color: #fff;
+  }
+  
+  hr {
+    width: 10%;
+    color: #000;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    margin-bottom: 15px;
+  }
+  
+  input,
+  input::-webkit-input-placeholder {
+    font-size: 13px;
+    padding-top: 3px;
+  }
+  
+  .main-login {
+    background-color: #00000080;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+  }
+  
+  .main-center {
+    margin: 0 auto;
+    max-width: 450px;
+    padding: 40px 40px;
+  }
+  
+  .login-button {
+    margin-top: 15px;
+  }
+  .message {
+    color: #fff;
+    text-shadow: 1px 1px 2px red;
+    padding-left: 50px;
+    font-weight: bold;
+  }
+  .container {
+    justify-content: center;
+    text-align: left;
+    opacity: 0.8;
+  }
+  
+  .cover {
+    background-size: cover;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSk3Ljo6Fx8zODM4Nyg5LjcBCgoKDQ0NDg0NDisZFRkrKy0rNzcrKys3LS0tKzctKy0rLSs3LTcrLSsrKysrKystKysrKysrLSsrKysrKysrK//AABEIAQMAwgMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAAAQf/xAAWEAEBAQAAAAAAAAAAAAAAAAAAARH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDDgFABFAAABAAAFBAABUFBQRFAUAEABQBRFAEAQAVRAUBFABFAEVBFAABQAAAQAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQBQQFEUAAABAAUAAAAAAAAAAAABFBBUBRAAARRFFAAAEAAABQAAAAAAQAAEABQAEAEUAVFAFAAAEABQAAAABAVAEAEABVAEQABUBQVFAAFAAAAAAAAAAEAAAQAAAAAAAQAUABVABAAUAAAAAAABAURABQAQAAFRAUBQBQAAAAAAAAAAABBQEAQABAFBAVQAAAFAAAAAAAAAAAAQUAAARQEUBAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABUUBAUEAAAAAAAAAAAAAAAAAABQAEAWooIoCCgIKAgoCAoIKAgoCCgIKAgoACgYKCxKigiQAAAAAAAAAAAAAAAAAFABFUAAUf/Z");
+  }
+  .btn {
+    display: flex;
+    justify-content: left;
+    margin-left: 80%;
+  }
+  
+  .img {
+    position: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    opacity: 25%;
+  }
+  
